@@ -1,0 +1,3 @@
+# CHECKSUMS.sha256 以位元組雜湊驗證檔案：統一以 LF 儲存與檢出，避免 Windows 換行轉換造成驗證失敗
+* text=auto eol=lf
+*.png binary

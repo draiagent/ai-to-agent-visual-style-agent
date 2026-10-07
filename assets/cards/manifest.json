@@ -1,0 +1,30 @@
+[
+  {
+    "file": "assets/cards/01-task-definition.png",
+    "source": "輸入素材六項清單-1.png",
+    "width": 940,
+    "height": 1672,
+    "sha256": "a2136dee08a0d361e6548961052e312c3c7807160a509df358497510a2706b11"
+  },
+  {
+    "file": "assets/cards/02-execution-acceptance.png",
+    "source": "EASY CURE AI 教學頁 -2(1).png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "5480d67b448ffa3109075a4d0df2c438489c933331bc385907288147d44ab930"
+  },
+  {
+    "file": "assets/cards/03-style-tools.png",
+    "source": "風格沿用與工具分工-3(1).png",
+    "width": 941,
+    "height": 1672,
+    "sha256": "2fd9f5a3b2ba42e587c5c9b2246362c799a55d25aebde8f04281fcd843bca72b"
+  },
+  {
+    "file": "assets/cards/04-delivery-correction.png",
+    "source": "視覺風格代理：最終交付與驗收-4(1).png",
+    "width": 941,
+    "height": 1672,
+    "sha256": "fa02dd89f3de0a77761093af8fa64846d0271e26d46856243085eaaf445ee0bd"
+  }
+]
